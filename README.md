@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3MmU5cDUzcm84eGdrd3F5dW9jN2o4d3NhNzdkNGMyOTgxbWE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZFxBu5dMqwA1cIB1k/giphy.gif" width="300" alt="AI Robot GIF">
-</p>
 <h1 align="center">Hi there, I'm Gökdeniz! 👋</h1>
 
 <p align="center">
@@ -10,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3MmU5cDUzcm84eGdrd3F5dW9jN2o4d3NhNzdkNGMyOTgxbWE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZFxBu5dMqwA1cIB1k/giphy.gif" width="200" alt="AI Tech GIF">
+  <img src="https://media.giphy.com/media/HZFxBu5dMqwA1cIB1k/giphy.gif" width="200" alt="AI Tech GIF">
 </p>
 
 <p align="center"> 
@@ -18,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gokdeniz-tural/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/gokdeniztrl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gokdeniz-tural/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/gokdeniztrl" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
 </p>
 
 ---
