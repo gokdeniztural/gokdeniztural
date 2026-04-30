@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Building+End-to-End+AI+Products;Backend-Heavy+AI+Developer;NLP+%26+LLM+Explorer;FastAPI+%2B+Python+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;AI+Enthusiast;Aspiring+AI+Product+Engineer;Backend-Heavy+AI+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="AI Tech GIF">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3MmU5cDUzcm84eGdrd3F5dW9jN2o4d3NhNzdkNGMyOTgxbWE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZFxBu5dMqwA1cIB1k/giphy.gif" width="200" alt="AI Tech GIF">
 </p>
 
 <p align="center"> 
@@ -21,20 +21,19 @@
 
 ---
 
-## 🚀 Hakkımda
+## 🚀 About Me
 
-Merhaba! Düzce Üniversitesi'nde Bilgisayar Mühendisliği eğitimime devam ederken, yapay zeka alanında sadece model eğitmekle yetinmeyip bu modelleri ölçeklenebilir, gerçek dünya ürünlerine dönüştürmeye odaklanıyorum. Kendimi saf bir veri bilimci olmaktan ziyade, sistemleri uçtan uca inşa eden bir **AI Product Engineer** olarak konumluyorum.
+Hi! I'm a Computer Engineering student with a deep passion for Artificial Intelligence. Rather than just training models, I am highly motivated to build the infrastructure that brings them to life. 
 
-* 🔭 **Şu anki odağım:** Teknofest projelerinde sağlıkta yapay zeka ve gerçek zamanlı nesne takip sistemleri üzerinde çalışmak; backend ağırlıklı mimariler tasarlamak.
-* 🛠️ **Favori Araçlarım:** Geliştirdiğim modelleri hayata geçirirken gücümü **Python** ve **FastAPI**'dan alıyorum.
-* 🧠 **Derinleştiğim Alanlar:** Deep Learning, Doğal Dil İşleme (NLP) ve Büyük Dil Modelleri (LLMs).
-* 🌍 **Gelecek Vizyonum:** Kendimi sürekli geliştirerek akademik ve profesyonel kariyerime Almanya'da devam etmek; global ölçekte değer üreten yapay zeka ürünleri ortaya koymak.
+My ultimate goal is to become an **AI Product Engineer**, focusing heavily on the backend side of AI. I enjoy bridging the gap between machine learning algorithms and robust, scalable backend systems to create end-to-end, working products.
 
-Karmaşık problemleri çözmek, veriyi işlemek ve en önemlisi **çalışan, yaşayan ürünler** yaratmak en büyük tutkum.
+* 🔭 **Current Focus:** Building backend-heavy AI architectures and exploring scalable solutions.
+* 🛠️ **Tech Stack Focus:** Leveraging tools like **Python** and **FastAPI** to develop solid APIs for AI systems.
+* 🌱 **Always Learning:** Constantly improving my engineering skills to build systems that solve real-world problems.
 
 ---
 
-<h3 align="center">💻 Diller ve Araçlar</h3>
+<h3 align="center">💻 Languages and Tools</h3>
 
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
@@ -53,7 +52,7 @@ Karmaşık problemleri çözmek, veriyi işlemek ve en önemlisi **çalışan, y
 
 ---
 
-<h3 align="center">📊 GitHub İstatistikleri</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gokdeniztural&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="gokdeniztural stats" />
