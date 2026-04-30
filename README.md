@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ3MmU5cDUzcm84eGdrd3F5dW9jN2o4d3NhNzdkNGMyOTgxbWE3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HZFxBu5dMqwA1cIB1k/giphy.gif" width="300" alt="AI Robot GIF">
+</p>
 <h1 align="center">Hi there, I'm Gökdeniz! 👋</h1>
 
 <p align="center">
