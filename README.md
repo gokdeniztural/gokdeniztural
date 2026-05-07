@@ -48,10 +48,10 @@ My ultimate goal is to become an **AI Product Engineer**, focusing heavily on th
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokdeniztural&show_icons=true&locale=en&theme=dracula&hide_border=true" alt="gokdeniztural stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokdeniztural&show_icons=true&locale=en&theme=radical&hide_border=true" height="170" alt="gokdeniztural stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokdeniztural&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="gokdeniztural top langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokdeniztural&theme=dracula&hide_border=true" alt="gokdeniztural streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gokdeniztural&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" height="170" alt="gokdeniztural top langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokdeniztural&theme=radical&hide_border=true" height="170" alt="gokdeniztural streak" />
 </p>
