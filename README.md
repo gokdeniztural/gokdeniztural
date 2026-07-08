@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0FFF,100:00D4FF&height=200&section=header&text=Gökdeniz%20Tural&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+# Gökdeniz Tural
+### AI Engineer | Backend Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Passionate+about+Artificial+Intelligence;Aspiring+AI+Product+Engineer;Building+the+backend+of+AI+systems;Turning+ML+models+into+real+products)](https://git.io/typing-svg)
 
@@ -31,11 +32,9 @@ My ultimate goal is to become an **AI Product Engineer**, focusing heavily on th
 ## 🛠️ Languages & Tools
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,sklearn,opencv,cpp,cs,java,git,postgres,mysql" />
 <br/><br/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="48" title="Pandas" alt="Pandas"/>
-
 </div>
 
 ---
@@ -53,9 +52,6 @@ My ultimate goal is to become an **AI Product Engineer**, focusing heavily on th
 
 ---
 
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0F0FFF&height=120&section=footer" width="100%"/>
-
 </div>
