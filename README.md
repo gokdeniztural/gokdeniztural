@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gökdeniz Tural
-### AI Engineer | Backend Developer
+### AI & ML Engineer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Passionate+about+Artificial+Intelligence;Aspiring+AI+Product+Engineer;Building+the+backend+of+AI+systems;Turning+ML+models+into+real+products)](https://git.io/typing-svg)
 
